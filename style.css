@@ -1,0 +1,33 @@
+img{
+	width: 10%;
+	margin-left: 20px;
+}
+header{
+	background-color:  #1c1c20; 
+	padding: 10px 0;
+}
+
+ nav{
+ 	position: absolute;
+ 	top: 70px;
+ 	left: 20%;
+ }
+ nav ul li{
+ 	display: inline;
+ 	margin-left: 50px;
+ 	font-size: 30px;
+ }
+ nav A{
+ 	text-decoration: none;
+ 	color: white;
+ 	font-size: 22px;
+
+ }
+a:hover{
+	color: skyblue;
+	font-family: Arial;
+
+}
+body{
+	font-family: 'patrick Hand', cursive;
+}
